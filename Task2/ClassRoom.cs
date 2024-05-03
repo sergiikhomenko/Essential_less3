@@ -14,7 +14,7 @@ namespace Task2;
 public class ClassRoom
 {
     private Pupil[] _student;
-    public ClassRoom(Pupil[] student )
+    public ClassRoom(Pupil[] student)
     {
         _student = student;
     }
